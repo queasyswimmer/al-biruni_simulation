@@ -105,4 +105,3 @@ ax.legend(fontsize=9.5, loc='upper right')
 ax.set_xlim(30, 40)
 
 plt.tight_layout()
-print("Plot saved to biruni_sensitivity.pdf / .png")
